@@ -1,3 +1,3 @@
 export default function returnHowManyArguments(...theVariables) {
-   return theVariables.length;
+  return theVariables.length;
 }
